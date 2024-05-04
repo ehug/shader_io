@@ -2,6 +2,8 @@
 
 Author: Eric Hug 
 
+![Tool Preview](tool_preview.png)
+
 ## Requirements
 * Maya 2022 (with python 3) through 2024
 
